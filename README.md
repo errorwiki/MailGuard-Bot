@@ -1,7 +1,11 @@
 # MailGuard-Bot
 
 
-<h1 align="center"> MailGuard-Bot 💌</h1>
+<h1 align="center"> Temporary Email Addresses MailGuard-Bot 💌</h1>
+
+<p align="center">
+<img src="https://generator.email/pages/blog/img/title/5.png" height="300">
+</p>
 
 <p align="center">
   <em>This is a Telegram bot script utilizing the mail.tm API. It allows users to generate temporary email addresses within Telegram, access their inbox, and read messages, all without leaving the app.</em>
